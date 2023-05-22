@@ -2,7 +2,11 @@
 
 <img src="https://img.shields.io/github/license/LeBombusP/RestaurantApp.svg"> <img src="https://img.shields.io/github/forks/LeBombusP/RestaurantApp.svg"> <img src="https://img.shields.io/github/stars/LeBombusP/RestaurantApp.svg"> <img src="https://img.shields.io/github/issues/username/repo-name.svg"> 
 # Los Pollos Hermanos app
-Web aplication for ordering food online
+The aim of the project is to create an application that allows users to order food online from restaurants. The application will be responsive and will work on various devices such as computers, tablets and smartphones. Users will be able to browse the offers of various restaurants, place orders and choose between home delivery or restaurant pickup options.
+
+## Prerequisites
+- node.js 16+ 
+- firefox or chromium based browser
 
 ## Getting Started
 To get a local copy up and running follow these simple steps.
@@ -19,6 +23,7 @@ npm install / yarn / pnpm install
 ```sh
 npm run dev / yarn dev / pnpm run dev
 ```
+4. Website should be avalible at `http://localhost:3000`.
 
 ## Authors
 - [@lebombusp](https://www.github.com/lebombusp)
